@@ -47,11 +47,20 @@ section#title {
 .title-image {
     width: 60%;
     transform: rotate(25deg);
+    position: absolute;
 }
 
 /*Features*/
 #features {
     text-align: center;
+    background-color: #fff;
+    padding: 7% 15%;
+    position: relative;
+    z-index: 1;
+}
+
+.container-fluid {
+    padding: 3% 15% 7%;
 }
 
 .features-title {
@@ -97,4 +106,66 @@ section#title {
 
 .carousel-item {
     padding: 7% 15%;
+}
+
+
+/*Pricing*/
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
+
+    #testimonials h2 {
+        font-size: 1.5rem;
+    }
+
+    .press-logo {
+        width: 30%;
+    }
+}
+
+/* CTA */
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 3% 5%;
+}
+
+#cta h3 {
+    color: #fff;
+    font-size: 2.5rem;
+}
+
+#cta button {
+    margin:20px;
+}
+
+/* Footer*/
+#footer {
+    background-color: #fff;
+    text-align: center;
+    padding: 3%;
+    font-size: 1.5rem;
+}
+
+#footer p.social {
+    color: black;
+}
+
+#footer p {
+    color: grey;
 }
