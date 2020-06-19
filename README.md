@@ -6,3 +6,4 @@ Currently I have completed following chapters:
 * Chapter 1-5: Skipped. Contains knowledge that I already have
 * Chapter 6: Learned about layouts and containers in Bootstrap.
 * Chapter 7: Learned about carousel, css selector priorities, css transformation.
+* Chapter 11: Dicee Challenge project.
