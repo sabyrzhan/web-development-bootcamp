@@ -8,3 +8,4 @@ Currently I have completed following chapters:
 * Chapter 7: Learned about carousel, css selector priorities, css transformation.
 * Chapter 11: Dicee Challenge project.
 * Chapter 12: Add DrumKit project. Learned about how to play audio using Audio() object and about constructor functions to create new objects.
+* Chapter 14: Add Simon Game Challenge.
