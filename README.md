@@ -10,3 +10,4 @@ Currently I have completed following chapters:
 * Chapter 12: Add DrumKit project. Learned about how to play audio using Audio() object and about constructor functions to create new objects.
 * Chapter 14: Add Simon Game Challenge. Finshied the 2nd Boss Level Challenge.
 * Chapter 18-19: Created Intro To NodeJS with ExpressJS. Nothing new: standard deployment, usages of GET/PUT methods.
+* Chapter 21: Learned EJS. Stopped at 7th video.
