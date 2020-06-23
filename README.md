@@ -11,3 +11,4 @@ Currently I have completed following chapters:
 * Chapter 14: Add Simon Game Challenge. Finshied the 2nd Boss Level Challenge.
 * Chapter 18-19: Created Intro To NodeJS with ExpressJS. Nothing new: standard deployment, usages of GET/PUT methods.
 * Chapter 21: Learned EJS: templates and layouts, nodejs modules.
+* Chapter 22: Add EJS Challenge project 
