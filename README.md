@@ -12,3 +12,4 @@ Currently I have completed following chapters:
 * Chapter 18-19: Created Intro To NodeJS with ExpressJS. Nothing new: standard deployment, usages of GET/PUT methods.
 * Chapter 21: Learned EJS: templates and layouts, nodejs modules.
 * Chapter 22: Finished EJS challenge.
+* Chapter 27: Adapted Mongoose into ToDoList and EJS-Challenge Blogging. Learned about Mongoose library.
