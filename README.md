@@ -14,3 +14,4 @@ Currently I have completed following chapters:
 * Chapter 22: Finished EJS challenge.
 * Chapter 27: Adapted Mongoose into ToDoList and EJS-Challenge Blogging. Learned about Mongoose library.
 * Chapter 31: Add Starting Code. Learned about: PassportJS for authentication, various encryption methods, dotenv.
+* Chapter 32: Learned about ReactJS and running in codesandbox.io.
