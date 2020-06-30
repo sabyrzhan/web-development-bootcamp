@@ -15,3 +15,24 @@ Currently I have completed following chapters:
 * Chapter 27: Adapted Mongoose into ToDoList and EJS-Challenge Blogging. Learned about Mongoose library.
 * Chapter 31: Add Starting Code. Learned about: PassportJS for authentication, various encryption methods, dotenv.
 * Chapter 32: Learned about ReactJS and running in codesandbox.io.
+
+### Useful resources saved from the course
+* Submarine cable map - https://www.submarinecablemap.com/
+* CSS color paletes - https://colorhunt.co/
+* Adobe Color Wheel - https://color.adobe.com/ru/create/color-wheel
+* Principles of Writing Consistent, Idiomatic JavaScript - https://github.com/rwaldron/idiomatic.js
+* Lodash Utility Lib - https://lodash.com/
+* Various encryption/decryption algorithms - https://cryptii.com/
+* HackerTyper - http://hackertyper.com/
+* Uber auth lib for NodeJS - PassportJS: http://www.passportjs.org/
+* Online JS editor - https://codesandbox.io
+* Lorem Picsum - https://picsum.photos/
+* AirBnb React Style Guide - https://github.com/airbnb/javascript/tree/master/react
+* https://www.emojimeanings.net/
+* JS destructuring - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+* React controlled components - https://reactjs.org/docs/forms.html#controlled-components
+* Material components for React - https://material-ui.com/
+  * Icons - https://material-ui.com/components/icons/
+  * Bittons - https://material-ui.com/components/buttons/#floating-action-buttons
+  * Zoom API - https://material-ui.com/api/zoom/
+* Transparent textures - https://www.transparenttextures.com/
