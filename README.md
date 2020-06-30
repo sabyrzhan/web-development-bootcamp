@@ -1,4 +1,4 @@
-# My "Udemy's Complete web development bootcamp" learning progress
+# My "Udemy's Complete web development bootcamp" learning progress [FINISHED]
 
 This is the repository which contains my progress while learning every chapter from Udemy's course.
 
