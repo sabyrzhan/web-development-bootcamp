@@ -4,7 +4,7 @@ const https = require('https');
 const app = express();
 
 app.get('/', function(req, resp) {
-    let url = 'https://api.openweathermap.org/data/2.5/weather?q=London,uk&appid=ac4119e6c195057a1cd530ac6e9630d3&units=metric';
+    let url = 'https://api.openweathermap.org/data/2.5/weather?q=London,uk&appid=acXXXXXXXXXXXXXXXXXXXX&units=metric';
     https.get(url, function(result) {
         result.on('data', function(data) {
             var weather = JSON.parse(data);
